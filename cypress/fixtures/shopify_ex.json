@@ -1,0 +1,15 @@
+{
+    "firstName": "Baby Billy",
+    "lastName": "Freeman",
+    "address1": "7733 Marble Crest Dr", 
+    "city": "Austin", 
+    "state": "Texas", 
+    "zipCode": "78747", 
+    "emailAddress": "csschumacher+unclebabybilly@gmail.com", 
+    "product1": "Basic Tee",
+    "product2": "The Room",
+    "orderConfirm": "Your order is confirmed", 
+    "collection": "Clothing",
+    "collectionPage": "All Collections", 
+    "searchProduct": "Search"
+  }
